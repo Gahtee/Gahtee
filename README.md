@@ -26,7 +26,9 @@
 
 <a href="https://github.com/Gahtee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gahtee&theme=dracula&show_icons=true" />
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahtee&hide=html&layout=compact&theme=default" />
+</a>
+<a href="https://github.com/Gahtee">
+   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahtee&hide=html&layout=compact&theme=default"/>
 </a>
 
 <br/>
