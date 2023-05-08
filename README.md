@@ -28,13 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gahtee&theme=dracula&show_icons=true" />
 </a>
 <br/>
-
-
-<a href="https://github.com/Gahtee">
-   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahtee&hide=html&layout=compact&theme=default"/>
-</a>
-
-
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Gahtee&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
