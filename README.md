@@ -1,11 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Gahtee&color=006bed)
 
-<h3> 👨: &nbsp;Sobre mim </h3>
+<h3> 💻: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Energias Renováveis** no <a href="[link da sua faculdade](https://www.ufpb.br)">SUA FACULDADE</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Nodejs e Machine Learning**.
+- 🌱 &nbsp; Estudando **Engenharia de Energias Renováveis** no <a href="[link da sua faculdade](https://www.ufpb.br)">SUA FACULDADE</a>.
+- 🎓 &nbsp; Aprendendo mais sobre **Nodejs e Machine Learning**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
