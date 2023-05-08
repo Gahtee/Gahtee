@@ -36,5 +36,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-gabrieltimoteobot@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-gabrieltimoteobot@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieltimoteobot@gmail.com)](mailto:gabrieltimoteobot@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/Gahtee?label=follow&style=social)](https://github.com/Gahtee)
