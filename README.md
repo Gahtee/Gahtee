@@ -23,12 +23,16 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
-
 <a href="https://github.com/Gahtee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gahtee&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gahtee&theme=white&show_icons=true" />
 </a>
 <br/>
-[![iGahtee](https://github-readme-stats.vercel.app/api/top-langs/?username=Gahtee&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<a href="https://github.com/Gahtee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahtee&hide=html&layout=compact&theme=white" />
+</a>
+<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
