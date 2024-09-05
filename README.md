@@ -4,7 +4,7 @@
 <h3> 💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp; Estudando **Engenharia de Energias Renováveis** na <a href="https://www.ufpb.br">UFPB</a>.
+- 🌱 &nbsp; Estudando **Engenharia de Energias Renováveis**
 - 🎓 &nbsp; Aprendendo mais sobre **Nodejs e Machine Learning**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
